@@ -34,11 +34,6 @@ El objetivo de este proyecto es desarrollar una estrategia analítica basada en 
 3. **Cancelación**:
    - `Churn`: Indica si el cliente canceló o no durante el mes analizado.
 
-### Ubicación del Dataset:
-Archivo: `/datasets/gym_churn_us.csv`
-
----
-
 ## Pasos del Análisis
 
 ### 1. Exploración y Preparación de Datos
